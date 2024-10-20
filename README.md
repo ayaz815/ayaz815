@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **https://bitcompare.net/**
  
- 🌱 I’m currently learning **Python, Django**
+ 🌱 I’m currently learning **AWS/ Project Management**
 
 💬 Ask me about **React, Next.js, Node.js, Nest.js...**
 
